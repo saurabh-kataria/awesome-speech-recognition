@@ -2,8 +2,7 @@
 Interesting ASR resources
 
 # Books
-1. Yu, D. and Deng, L., 2016. Automatic speech recognition (Vol. 1). Berlin: Springer. (https://www.academia.edu/download/59834621/automatic_speech_recognition_a_deep_learning_approach20190622-75570-hvrme8.pdf)
+1. Yu, D. and Deng, L., 2016. Automatic speech recognition (Vol. 1). Berlin: Springer. (https://link.springer.com/content/pdf/10.1007/978-1-4471-5779-3.pdf?pdf=button)
 
-
----
+----------------------------------------
 Harvard citation.
